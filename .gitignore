@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+env.bak/
+.env
+
+# Node
+node_modules/
+dist/
+build/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python test / packaging
+.pytest_cache/
+pip-wheel-metadata/
+*.egg-info/
+
+# OneDrive temp
+~$*
